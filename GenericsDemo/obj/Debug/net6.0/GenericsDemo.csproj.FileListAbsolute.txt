@@ -1,0 +1,15 @@
+C:\Users\vgj24\source\repos\GenericsDemo\bin\Debug\net6.0\GenericsDemo.exe
+C:\Users\vgj24\source\repos\GenericsDemo\bin\Debug\net6.0\GenericsDemo.deps.json
+C:\Users\vgj24\source\repos\GenericsDemo\bin\Debug\net6.0\GenericsDemo.runtimeconfig.json
+C:\Users\vgj24\source\repos\GenericsDemo\bin\Debug\net6.0\GenericsDemo.dll
+C:\Users\vgj24\source\repos\GenericsDemo\bin\Debug\net6.0\ref\GenericsDemo.dll
+C:\Users\vgj24\source\repos\GenericsDemo\bin\Debug\net6.0\GenericsDemo.pdb
+C:\Users\vgj24\source\repos\GenericsDemo\obj\Debug\net6.0\GenericsDemo.csproj.AssemblyReference.cache
+C:\Users\vgj24\source\repos\GenericsDemo\obj\Debug\net6.0\GenericsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vgj24\source\repos\GenericsDemo\obj\Debug\net6.0\GenericsDemo.AssemblyInfoInputs.cache
+C:\Users\vgj24\source\repos\GenericsDemo\obj\Debug\net6.0\GenericsDemo.AssemblyInfo.cs
+C:\Users\vgj24\source\repos\GenericsDemo\obj\Debug\net6.0\GenericsDemo.csproj.CoreCompileInputs.cache
+C:\Users\vgj24\source\repos\GenericsDemo\obj\Debug\net6.0\GenericsDemo.dll
+C:\Users\vgj24\source\repos\GenericsDemo\obj\Debug\net6.0\ref\GenericsDemo.dll
+C:\Users\vgj24\source\repos\GenericsDemo\obj\Debug\net6.0\GenericsDemo.pdb
+C:\Users\vgj24\source\repos\GenericsDemo\obj\Debug\net6.0\GenericsDemo.genruntimeconfig.cache
